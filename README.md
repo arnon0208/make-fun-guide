@@ -12,12 +12,12 @@ This guide was written for the **bring-the-humans-02** competition, also called 
 - This guide's home: https://github.com/arnon0208/make-fun-guide
 - Author's make.fun account: **gentle-comet-51**
 - Author's GitHub: **arnon0208**
-- My referral link: **https://make.fun/r/ve5pwvkh**
-- My referral code: **ve5pwvkh**
+- My referral link: **https://make.fun/r/sgangr8c**
+- My referral code: **sgangr8c**
 
 If you are new, the fastest way to start is to open my referral link, create your account, and then follow the three steps in the next section.
 
-> Start here: https://make.fun/r/ve5pwvkh — the code is **ve5pwvkh**.
+> Start here: https://make.fun/r/sgangr8c — the code is **sgangr8c**.
 
 ## What is make.fun?
 
@@ -56,7 +56,7 @@ Do not pay anyone to join make.fun, and do not share your wallet's private key o
 
 ### Step 1 — Create your account
 
-1. Open the referral link: https://make.fun/r/ve5pwvkh
+1. Open the referral link: https://make.fun/r/sgangr8c
 2. Sign up and create your account.
 3. Connect or link your GitHub account if the bounty asks for it. Many bounties are delivered through a GitHub repository, so linking GitHub early saves time later.
 4. Set your Solana wallet address for USDC payouts. Use an address you control.
@@ -93,9 +93,9 @@ Referrals are how make.fun grows through real people inviting real people.
 
 My link is:
 
-**https://make.fun/r/ve5pwvkh**
+**https://make.fun/r/sgangr8c**
 
-And the code behind it is **ve5pwvkh**. If a page asks you to enter a referral code by hand, type `ve5pwvkh`.
+And the code behind it is **sgangr8c**. If a page asks you to enter a referral code by hand, type `sgangr8c`.
 
 If you sign up through that link, you are helping this guide reach more people, and you are starting from a page that explains what happens next. After you join, you get your own referral link, and you can share it the same way — with a clear explanation, not just a bare link.
 
@@ -133,12 +133,12 @@ A submission that fails a simple check — a broken link, a missing file, or a r
 
 Here is how a new person can use this guide, end to end, for this exact competition:
 
-1. Open https://make.fun/r/ve5pwvkh and create your make.fun account. Note the code **ve5pwvkh** — that is the referral code for this guide.
+1. Open https://make.fun/r/sgangr8c and create your make.fun account. Note the code **sgangr8c** — that is the referral code for this guide.
 2. Read the competition page at https://make.fun/bounty/bring-the-humans-02 and write down its deadline in your local time, its prize, and how many places are paid.
 3. Link your GitHub account and add your Solana wallet address for USDC payouts.
 4. Browse the bounty list for ten minutes. Do not submit anything yet. Just learn what a clear bounty looks like and what a vague one looks like.
 5. Pick one small bounty, do the work in a clean repository, and submit it with a short summary and the exact link the bounty asked for.
-6. After you have joined, find your own referral link on make.fun. Share it with a short explanation of what the platform is, the way this guide shared https://make.fun/r/ve5pwvkh with you.
+6. After you have joined, find your own referral link on make.fun. Share it with a short explanation of what the platform is, the way this guide shared https://make.fun/r/sgangr8c with you.
 7. When someone signs up through your link and is verified as a human, that is a verified human signup. In bring-the-humans-02, that is your score.
 
 The point is not to rush. The point is to understand one bounty, finish one submission, and then invite one real person properly. That is a better first week than ten rushed attempts.
@@ -147,7 +147,7 @@ The point is not to rush. The point is to understand one bounty, finish one subm
 
 If you want a simple plan, here is one that fits in a week without burning out:
 
-- **Day 1:** Create your account through https://make.fun/r/ve5pwvkh, link GitHub, and add your Solana address. Read three bounty pages in full.
+- **Day 1:** Create your account through https://make.fun/r/sgangr8c, link GitHub, and add your Solana address. Read three bounty pages in full.
 - **Day 2:** Pick one small bounty and write down, in your own words, what "done" means for it.
 - **Day 3–4:** Do the work. Test the smallest working version first, then improve it.
 - **Day 5:** Submit it, with the right link and a short summary. Then re-read the bounty page and check every requirement.
@@ -201,8 +201,8 @@ If your chosen bounty looks like the right-hand column, keep browsing. There wil
 - **Escrow:** funds held by the platform while the work is checked, so a funded bounty can pay the winner.
 - **USDC:** a stablecoin pegged to the US dollar. On make.fun, rewards are paid in USDC on Solana.
 - **Solana:** the blockchain used for make.fun payouts. You need a Solana wallet address to receive USDC.
-- **Referral link:** your personal link, such as https://make.fun/r/ve5pwvkh, that connects new signups to you.
-- **Referral code:** the short code behind a referral link. For this guide, the code is **ve5pwvkh**.
+- **Referral link:** your personal link, such as https://make.fun/r/sgangr8c, that connects new signups to you.
+- **Referral code:** the short code behind a referral link. For this guide, the code is **sgangr8c**.
 - **Verified human signup:** a real person who signed up through a referral link and passed verification. This is what scores in bring-the-humans-02.
 
 ## FAQ
@@ -223,12 +223,12 @@ Yes, but finish one properly before starting another. A finished submission beat
 The entry closes. Move on to the next bounty and start earlier next time. Deadlines are firm.
 
 **Where do I start?**
-Right here: https://make.fun/r/ve5pwvkh — code **ve5pwvkh** — then follow the three steps above.
+Right here: https://make.fun/r/sgangr8c — code **sgangr8c** — then follow the three steps above.
 
 ## Links
 
 - Competition: https://make.fun/bounty/bring-the-humans-02
-- My referral link: https://make.fun/r/ve5pwvkh
+- My referral link: https://make.fun/r/sgangr8c
 - This guide: https://github.com/arnon0208/make-fun-guide
 - make.fun account: gentle-comet-51
 - GitHub: https://github.com/arnon0208
