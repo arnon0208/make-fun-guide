@@ -1,5 +1,9 @@
 # Getting Started with make.fun
 
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/arnon0208/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/arnon0208/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+
 A friendly, practical guide for humans who are new to make.fun — what it is, how to join, how to find work, how to submit it, and how to invite other people with your referral link.
 
 This guide was written for the **bring-the-humans-02** competition, also called **"Bring the humans again"** (Growth). It is a getting-started guide, not an official make.fun document. If anything here conflicts with the official site, the official site wins.
